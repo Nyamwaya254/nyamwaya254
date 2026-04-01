@@ -10,7 +10,7 @@
 
 ---
 
-## 👋 About Me
+##  About Me
 
 I'm a **Junior Backend Engineer** passionate about building reliable, scalable systems that hold up under real-world load. My focus is on clean architecture, observable services, and writing code that ships to production — not just demos.
 
@@ -22,16 +22,16 @@ I care deeply about:
 
 ---
 
-## 🔨 What I'm Building
+##  What I'm Building
 
-| Project | Description | Status |
-|---------|-------------|--------|
-| **NyumbaPay** | A payment platform built for the rental & real estate market | 🚧 Active |
-| **Diyaffe** | An e-commerce platform connecting buyers and sellers | 🚧 Active |
+| Project 
+|---------
+| **NyumbaPay** 
+| **Diyaffe** 
 
 ---
 
-## 📚 Currently Learning
+##  Currently Learning
 
 ```
 ✦ Payment integrations  (M-Pesa, Paystack, Stripe, payment gateway internals)
