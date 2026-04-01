@@ -26,8 +26,9 @@ I care deeply about:
 
 
 
-**NyumbaPay** 
-**Diyaffe** 
+**NyumbaPay**  | **Diyaffe** 
+
+
 
 
 
