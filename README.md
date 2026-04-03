@@ -22,11 +22,13 @@ I care deeply about:
 
 ---
 
-##  What I'm Building
+
+
+##  What I'm Currently Building
 
 | Project 
 |---------
-| **NyumbaPay** 
+| **NyumbaPay**  
 | **Diyaffe** 
 
 ---
@@ -42,7 +44,7 @@ I care deeply about:
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ### Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -83,15 +85,16 @@ I care deeply about:
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nyamwaya254&hide_border=true&theme=default)](https://github.com/nyamwaya254)
+[![GitHub Streak](https://streak-stats.demolab.com?user=nyamwaya254&hide_border=true&theme=default&date_format=j%20M%5B%20Y%5D)](https://github.com/nyamwaya254)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nyamwaya254&layout=compact&hide_border=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nyamwaya254&show_icons=true&hide_border=true&theme=default&count_private=true&include_all_commits=true)
+
 
 </div>
 
 ---
 
-## 📬 Get In Touch
+##  Get In Touch
 
 If you're working on something interesting in fintech, e-commerce, SaaS, distributed systems, or backend infrastructure — I'd love to connect.
 
