@@ -12,7 +12,7 @@
 
 ##  About Me
 
-I'm a **Junior Backend Engineer** passionate about building reliable, scalable systems that hold up under real-world load. My focus is on clean architecture, observable services, and writing code that ships to production — not just demos.
+I'm a **Backend Engineer** passionate about building reliable, scalable systems that hold up under real-world load. My focus is on clean architecture, observable services, and writing code that ships to production — not just demos.
 
 I care deeply about:
 - Designing systems that **scale horizontally** without breaking
