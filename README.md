@@ -80,9 +80,6 @@ I care deeply about:
 
 ---
 
-# 📊 GitHub Stats:
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=nyamwaya254&theme=dark&hide_border=false)<br/>
 
 
 
