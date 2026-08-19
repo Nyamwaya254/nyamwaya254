@@ -4,7 +4,6 @@
 ### Backend Engineer · Python · FastAPI · Distributed Systems
 
 [![Email](https://img.shields.io/badge/Email-brianbichage81%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:brianbichage81@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-nyamwaya254-181717?style=flat&logo=github&logoColor=white)](https://github.com/nyamwaya254)
 
 </div>
 
